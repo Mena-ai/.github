@@ -1,7 +1,3 @@
-Here’s a comprehensive `README.md` for the Mena.ai GitHub organization, based on the latest information from the official site. Citations are provided for every factual statement.
-
----
-
 # Mena.ai
 
 Mena.ai is a cutting-edge, AI-powered mental health platform designed to help therapists streamline patient care, reduce costs, and serve more people with confidence and compliance ([mena-ai.pt][1]). Built on peer-reviewed research and industry recognition, Mena.ai empowers both patients and therapists with intelligent tools, robust data security, and seamless workflows.
