@@ -22,25 +22,6 @@ Mena.ai is a cutting-edge, AI-powered mental health platform designed to help th
 
 ---
 
-## 📱 Two Dedicated Platforms
-
-### Patient Mobile App
-
-* **AI Counseling Agent**
-* **Intelligent Appointment Booking**
-* **Progress Tracking & Reminders**
-* Available 24/7 on iOS and Android. ([mena-ai.pt][1])
-
-### Therapist Dashboard
-
-* **Patient Management**
-* **AI Treatment Planning**
-* **Clinical Analytics & Reporting**
-* **Digital Health Records**
-* **Assessment Tools & Scheduling** ([mena-ai.pt][1])
-
----
-
 ## 🏆 Awards & Recognition
 
 * **Best Paper Award** at the **ICT4AWE 2025** Conference (April 2025), for innovative AI-powered healthcare accessibility solutions.
@@ -94,7 +75,7 @@ Mena.ai offers tailored packages for diverse environments:
 ## 📞 Contact & Get Started
 
 Ready to elevate your practice?
-[Get Started »](https://mena-ai.pt/get-started) ([mena-ai.pt][1])
+[Get Started »](https://mena-ai.pt/pricing) ([mena-ai.pt][1])
 
 ---
 
