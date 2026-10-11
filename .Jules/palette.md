@@ -1,0 +1,3 @@
+## 2024-05-17 - Screen Reader Redundancy in LLM Citations
+**Learning:** Automatically generated markdown citation markers (like `([mena-ai.pt][1])`) cause significant screen reader fatigue and visual noise when repeated at the end of every bullet point or paragraph, disrupting the flow of information.
+**Action:** Always clean up unnecessary, repetitive citation markers in generated marketing or documentation text to ensure a smoother, more accessible reading experience for both visual and screen reader users.
