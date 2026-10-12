@@ -1,0 +1,3 @@
+## 2025-04-20 - LLM-generated Citation Markers Impact on A11y
+**Learning:** Raw LLM-generated citation markers (e.g., `([mena-ai.pt][1])`) in markdown documentation create visual clutter and severely degrade the experience for screen reader users by introducing unnecessary, hard-to-parse elements.
+**Action:** Always replace raw citation markers with clean, descriptive inline links in markdown documentation to prevent visual clutter and improve screen reader accessibility.
