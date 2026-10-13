@@ -37,9 +37,9 @@
 
 Mena.ai offers tailored packages for diverse environments:
 
-* **[Healthcare Providers](https://mena-ai.pt/solutions?utm_source=chatgpt.com):** Secure patient data management, AI-powered monitoring, and full EHR integration
-* **[Corporate Wellness](https://mena-ai.pt/solutions?utm_source=chatgpt.com):** Employee mental-wellbeing analytics, private resources, and stress-management tools
-* **[Community Programs](https://mena-ai.pt/solutions?utm_source=chatgpt.com):** Group support services, impact measurement, and outreach features for NGOs and foundations
+* **[Healthcare Providers](https://mena-ai.pt/solutions):** Secure patient data management, AI-powered monitoring, and full EHR integration
+* **[Corporate Wellness](https://mena-ai.pt/solutions):** Employee mental-wellbeing analytics, private resources, and stress-management tools
+* **[Community Programs](https://mena-ai.pt/solutions):** Group support services, impact measurement, and outreach features for NGOs and foundations
 
 ---
 
@@ -65,9 +65,9 @@ Mena.ai offers tailored packages for diverse environments:
 
 ## 🔗 Resources & Links
 
-* **GitHub:** [github.com/mena-ai](https://github.com/mena-ai)
-* **Blog:** [blog.mena-ai.pt](https://blog.mena-ai.pt)
-* **Careers:** [linkedin.com/company/mena-ai](https://www.linkedin.com/company/mena-ai)
+* **GitHub:** [Mena.ai GitHub Organization](https://github.com/mena-ai)
+* **Blog:** [Mena.ai Blog](https://blog.mena-ai.pt)
+* **Careers:** [Mena.ai LinkedIn](https://www.linkedin.com/company/mena-ai)
 * **Social:** [Facebook](https://facebook.com/menaai) • [X](https://x.com/mena_ai) • [YouTube](https://youtube.com/menaai)
 
 ---
@@ -75,7 +75,7 @@ Mena.ai offers tailored packages for diverse environments:
 ## 📞 Contact & Get Started
 
 Ready to elevate your practice?
-[Get Started »](https://mena-ai.pt/pricing)
+[View Pricing and Get Started](https://mena-ai.pt/pricing)
 
 ---
 
